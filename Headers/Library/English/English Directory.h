@@ -29,4 +29,10 @@ std::string VERBS[] = { "Running","Sprinting" };  //--- More Verbs Needed.
 
 
 
+//------------------------------------ NOUNS -----------------------------------------//
+
+std::string NOUNS[] = {"Computer","Door"};   //--- More Nouns Needed.
+
+//_________________________________ End Of NOUNS _____________________________________//
+
 
